@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/c1tUk6Sc8-wAAAAd/kiana-kaslana.gif">
+<img src="https://i.pinimg.com/originals/2a/ea/c7/2aeac774a8d2dad2e2086f6326429a2a.gif">
 
 <h2> Hey there! I'm Alif Rizki.</h2>
 
