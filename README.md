@@ -43,15 +43,5 @@
   </a>
 </p>
 
-<br/>
-<h3> 🖼️ &nbsp;Holopin!</h3>
-
-[![@renzien's Holopin board](https://holopin.io/api/user/board?user=renzien)](https://holopin.io/@renzien)
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="www.linkedin.com/in/alif-rizki/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alif%20Rizki%20Ramdhana-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/kurusu_arsene/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-kurusu__arsene-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:alifrizki1011@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alifrizki1011@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+### Here's my Github stats:
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=renzien&" alt="Renzien" />
