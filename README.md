@@ -43,5 +43,5 @@
   </a>
 </p>
 
-### Here's my Github stats:
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=renzien&" alt="Renzien" />
+### Here's my Holopin:
+[![@renzien's Holopin board](https://holopin.me/renzien)](https://holopin.io/@renzien)
