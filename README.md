@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/reuA7CC9RYgAAAAd/lappland-lappland-arknights.gif">
+<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/Qingque_Ultimate.gif/revision/latest?cb=20230128145959">
 
 <h2> Hey there! I'm Alif Rizki.</h2>
 
