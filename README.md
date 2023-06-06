@@ -1,4 +1,4 @@
-<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Seele_Ultimate.gif/revision/latest?cb=20230129114846">
+<img src="https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Seele_Technique.gif/revision/latest?cb=20230129115043">
 
 <h2> Hey there! I'm Alif Rizki.</h2>
 
