@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/Q11CPK9NGiMAAAAC/hsr-honkai-star-rail.gif">
+<img src="https://media.tenor.com/5ukcfxtdfoEAAAAC/skirk-genshin-impact.gif">
 
 <h2> Hey there! I'm Alif Rizki.</h2>
 
