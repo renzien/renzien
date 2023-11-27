@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/5ukcfxtdfoEAAAAC/skirk-genshin-impact.gif">
+<img src="https://media.tenor.com/EF2Ka1RmzA4AAAAd/huo-huo-domain-expansion-domain-expansion.gif">
 
 <h2> Hey there! I'm Alif Rizki.</h2>
 
