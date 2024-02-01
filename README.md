@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/EF2Ka1RmzA4AAAAd/huo-huo-domain-expansion-domain-expansion.gif">
+<img src="https://media1.tenor.com/m/Tj3yIjdge0oAAAAC/robin-honkai-star-rail-robin.gif">
 
 <h2> Hey there! I'm Alif Rizki.</h2>
 
