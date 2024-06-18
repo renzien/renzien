@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and learning something new
-- 🎓 &nbsp; Studying Software Engineering in Institut Teknologi Telkom Purwokerto
+- 🎓 &nbsp; Bachelor's Degree, Computer Software Engineering
 - 💼 &nbsp; Working as a Unity Level Designer
 - 🌱 &nbsp; Learning more about Game Developer, Unreal Engine
 - ✍️ &nbsp; Pursuing Graphic Design and Animation as Hobbies
