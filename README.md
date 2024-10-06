@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and learning something new
 - 🎓 &nbsp; Bachelor's Degree, Computer Software Engineering
-- 💼 &nbsp; Working as a Unity Level Designer
+- 💼 &nbsp; Working as a Simulator Developer
 - 🌱 &nbsp; Learning more about Game Developer, Unreal Engine
 - ✍️ &nbsp; Pursuing Graphic Design and Animation as Hobbies
 
