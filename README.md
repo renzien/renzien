@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/Zu--lfeTwYQAAAAC/shiroko-shiroko-terror.gif">
+<img src="https://media1.tenor.com/m/nwzIlmV6vKIAAAAd/shiroko-sunaookami-shiroko.gif">
 
 <h2> Hey there! I'm Alif Rizki.</h2>
 
