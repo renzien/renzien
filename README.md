@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/ntGFQjK-IKEAAAAd/changli-changli-wuwa.gif">
+<img src="https://media1.tenor.com/m/Zu--lfeTwYQAAAAC/shiroko-shiroko-terror.gif">
 
 <h2> Hey there! I'm Alif Rizki.</h2>
 
