@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/VCGsgtgVzCoAAAAC/arknights-doctor.gif">
+<img src="https://media1.tenor.com/m/kq9UQoCqOPEAAAAd/arknights-prts.gif">
 
 <h2> Hey there! I'm Alif Rizki.</h2>
 
