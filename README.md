@@ -1,7 +1,7 @@
 <img src="https://media1.tenor.com/m/kq9UQoCqOPEAAAAd/arknights-prts.gif">
 
 <h2> Hey there! I'm Alif Rizki.</h2>
-
+![](https://komarev.com/ghpvc/?username=renzien&style=flat-square)
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and learning something new
